@@ -4,6 +4,12 @@ An Excel toolbar with functions such as writing formulae with mathematical symbo
 <img src="Images/RibbonPart1.png" width="650">
 <img src="Images/RibbonPart2.png" width="650">
 
+# How to install
+
+1. Download the zip file in the releases section and unzip to a local folder. 
+2. Within Excel, go to Developer Tab > Excel Addins > Browse > ...
+3. Select the file Excel4Engineers-AddIn.xll or Excel4Engineers-AddIn64.xll depending on whether your version of excel is 32 bit or 64 bit.
+
 # Features
 
 ## Write symbols and sub/superscript
