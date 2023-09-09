@@ -234,8 +234,12 @@ namespace Excel4Engineers
         #endregion
 
 
-        [DynamicButtonLabel("Help", isLarge: true, tooltipHeader: "Text", tooltipDescription: "Description", iconImage: nameof(Resources.Info))]
-        public DynamicText Names_OffsetLabel3 { get; set; } = new DynamicText("Need Help? Hover on buttons");
+        [Button("Need Help? Hover on buttons", "Help", isLarge: true, tooltipHeader: "Text", tooltipDescription: "Description", iconImage: nameof(Resources.Info))]
+        public void Help_GotoGithub(IRibbonControl control)
+        {
+            System.Diagnostics.Process.Start("https://github.com/NickN-Eng/Excel4Engineers");
+        }
+
 
 
     }
