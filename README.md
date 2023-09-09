@@ -1,8 +1,8 @@
 # Excel4Engineers
 An Excel toolbar with functions such as writing formulae with mathematical symbols, subscript superscript, naming cells, and creating schedules of pdf drawings.
 
-<img src="Images/RibbonPart1.png" width="500">
-<img src="Images/RibbonPart2.png" width="500">
+<img src="Images/RibbonPart1.png" width="650">
+<img src="Images/RibbonPart2.png" width="650">
 
 # Features
 
